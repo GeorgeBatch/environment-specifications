@@ -1,0 +1,34 @@
+name: standard-dl
+channels:
+- conda-forge
+- pytorch
+dependencies:
+- python >= 3.6
+- pip
+- docopt
+- joblib
+- cython
+#### standard data manipulation
+- numpy
+- pandas
+#### working with images
+- pillow
+- opencv
+- scikit-image
+#### working with text
+- nltk
+#### ml libraries
+- scipy
+- statsmodels
+- scikit-learn
+####
+- pytorch
+- torchvision
+- torchtext
+#### for replicating figures
+- matplotlib
+- seaborn
+#### for using this env as a kernel in jupyterlab
+- jupyter
+- jupyterlab
+- nb_conda_kernels
