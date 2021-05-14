@@ -1,0 +1,22 @@
+name: standard-ml
+channels:
+- conda-forge
+dependencies:
+- python >= 3.6
+- pip
+- docopt
+- joblib
+- cython
+#### standard data manipulation
+- numpy
+- pandas
+#### ml libraries
+- scipy
+- scikit-learn
+#### for replicating figures
+- matplotlib
+- seaborn
+#### for using this env as a kernel in jupyterlab
+- jupyter
+- jupyterlab
+- nb_conda_kernels

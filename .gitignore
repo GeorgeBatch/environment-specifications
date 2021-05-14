@@ -1,0 +1,3 @@
+# exclude all Mac OS graphics
+*/.DS_Store
+.DS_Store
