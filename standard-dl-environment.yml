@@ -23,6 +23,7 @@ dependencies:
 - statsmodels
 - scikit-learn
 ####
+- tensorflow
 - pytorch
 - torchvision
 - torchtext
