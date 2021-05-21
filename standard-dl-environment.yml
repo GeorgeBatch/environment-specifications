@@ -22,7 +22,7 @@ dependencies:
 - scipy
 - statsmodels
 - scikit-learn
-####
+#### dl libraries
 - tensorflow
 - pytorch
 - torchvision
