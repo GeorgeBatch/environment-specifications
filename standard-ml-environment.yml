@@ -12,6 +12,7 @@ dependencies:
 - pandas
 #### ml libraries
 - scipy
+- statsmodels
 - scikit-learn
 #### for replicating figures
 - matplotlib
