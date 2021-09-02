@@ -2,6 +2,8 @@ name: standard-dl
 channels:
 - conda-forge
 - pytorch
+- bioconda
+- defaults
 dependencies:
 - python >= 3.6
 - pip
