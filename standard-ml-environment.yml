@@ -19,5 +19,4 @@ dependencies:
 - seaborn
 #### for using this env as a kernel in jupyterlab
 - jupyter
-- jupyterlab
 - nb_conda_kernels
