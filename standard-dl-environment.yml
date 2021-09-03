@@ -1,4 +1,4 @@
-name: standard-dl
+name: medical-cv
 channels:
 - conda-forge
 - pytorch
