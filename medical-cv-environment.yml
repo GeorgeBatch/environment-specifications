@@ -39,3 +39,5 @@ dependencies:
 #### for using this env as a kernel in jupyterlab
 - jupyter
 - nb_conda_kernels
+#### interactive time bars
+- tqdm
