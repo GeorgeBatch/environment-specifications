@@ -31,6 +31,8 @@ dependencies:
 - tensorflow
 - pytorch
 - torchvision
+#### cuda
+- cudatoolkit=10.2
 #### for replicating figures
 - matplotlib
 - seaborn
