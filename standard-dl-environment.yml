@@ -14,19 +14,19 @@ dependencies:
 - numpy
 - pandas
 #### working with standard images
-- opencv
-- pillow
+- opencv # cv2 in Python
+- pillow # PIL in Python
 - imageio
-- scikit-image
+- scikit-image # skimage in Python
 #### working with medical images
 - tifffile # to work with .tif and .tiff images
 - pydicom # to load CT scans from DICOM format
 - openslide # C library: to work with microscopy images (NDPI format)
-- openslide-python # python library on top of openslide
+- openslide-python # python library on top of openslide; openslide in Python
 #### ml libraries
 - scipy
 - statsmodels
-- scikit-learn
+- scikit-learn # sklearn in Python
 #### dl libraries
 - tensorflow
 - pytorch
