@@ -21,8 +21,8 @@ dependencies:
 #### working with medical images
 - tifffile # to work with .tif and .tiff images
 - pydicom # to load CT scans from DICOM format
-- openslide # to work with microscopy images (NDPI format)
-- openslide-python
+- openslide # C library: to work with microscopy images (NDPI format)
+- openslide-python # python library on top of openslide
 #### working with text
 - spacy
 - nltk
@@ -43,5 +43,4 @@ dependencies:
 - captum
 #### for using this env as a kernel in jupyterlab
 - jupyter
-- jupyterlab
 - nb_conda_kernels
