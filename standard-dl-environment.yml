@@ -34,8 +34,6 @@ dependencies:
 - tensorflow
 - pytorch
 - torchvision
-- torchtext
-- transformers
 #### for replicating figures
 - matplotlib
 - seaborn
