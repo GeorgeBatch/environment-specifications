@@ -35,7 +35,6 @@ dependencies:
 - pytorch
 - torchvision
 - torchtext
-# - torchaudio # not available for M1 Macs for now
 - transformers
 #### for replicating figures
 - matplotlib
