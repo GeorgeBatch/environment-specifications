@@ -30,8 +30,8 @@ dependencies:
 - scikit-learn # sklearn in Python
 #### dl libraries
 - tensorflow
-- pytorch
-- torchvision
+- pytorch==1.8.0::pytorch
+- torchvision==0.9.0::pytorch
 #### cuda NOTE: 'nvidia' channel is required for cudatoolkit 11.1
 - cudatoolkit=10.2
 #### for replicating figures
