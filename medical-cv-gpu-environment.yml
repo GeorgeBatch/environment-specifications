@@ -1,7 +1,7 @@
 name: medical-cv-gpu
 channels:
-- conda-forge
 - pytorch
+- conda-forge
 - nvidia
 - bioconda
 - defaults
