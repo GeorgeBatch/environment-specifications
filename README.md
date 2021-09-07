@@ -14,6 +14,8 @@ Most commonly used commands are outlined here.
 
 From: https://stackoverflow.com/questions/48016351/how-to-make-new-anaconda-env-from-yml-file
 
+**Q: How to make new anaconda env from yml file?**
+
 `conda env create` allows an option `--file` for an environment file:
 
 ```{shell}
