@@ -38,9 +38,9 @@ dependencies:
 - matplotlib
 - seaborn
 #### model interpretability
-- captum
-#### for using this env as a kernel in jupyterlab
+- captum # for interpreting pytorch models
+#### for using this env as a kernel in jupyter notebooks
 - jupyter
-- nb_conda_kernels
+- nb_conda_kernels # to be able to choose a kernel
 #### interactive time bars
 - tqdm
