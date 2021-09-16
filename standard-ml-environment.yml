@@ -17,6 +17,8 @@ dependencies:
 #### for replicating figures
 - matplotlib
 - seaborn
+#### interactive progress bar
+- tqdm
 #### for using this env as a kernel in jupyterlab
 - jupyter
 - nb_conda_kernels
