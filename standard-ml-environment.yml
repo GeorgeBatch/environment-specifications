@@ -19,6 +19,6 @@ dependencies:
 - seaborn
 #### interactive progress bar
 - tqdm
-#### for using this env as a kernel in jupyterlab
+#### for using this env as a kernel in jupyter notebooks
 - jupyter
 - nb_conda_kernels
