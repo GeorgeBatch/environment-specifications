@@ -23,6 +23,7 @@ dependencies:
 - pydicom # to load CT scans from DICOM format
 - openslide # C library: to work with microscopy images (NDPI format)
 - openslide-python # python library on top of openslide; openslide in Python
+# if it does not work (https://github.com/openslide/openslide-python/issues/138) - use pip instead of conda to install it
 #### ml libraries
 - scipy
 - statsmodels
