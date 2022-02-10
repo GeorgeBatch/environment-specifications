@@ -7,6 +7,8 @@ dependencies:
 - docopt
 - joblib
 - cython
+#### reading and writing YAML configuration files
+- pyyaml
 #### standard data manipulation
 - numpy
 - pandas
