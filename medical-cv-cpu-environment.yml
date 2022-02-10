@@ -20,6 +20,7 @@ dependencies:
 - scikit-image # skimage in Python
 #### working with medical images
 - tifffile # to work with .tif and .tiff images
+- zarr     # to work with .tif and .tiff images
 - pydicom # to load CT scans from DICOM format
 - openslide # C library: to work with microscopy images (NDPI format)
 - openslide-python # python library on top of openslide; openslide in Python
